@@ -3,3 +3,4 @@ _deploy.yml
 _site
 .ink-cache
 .deploy
+*.swp

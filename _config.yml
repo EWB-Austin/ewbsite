@@ -1,7 +1,28 @@
-url: http://ewbgreateraustin.org
+url: http://sudekei.github.io
+title: Engineers Without Borders - USA
+subtitle: Greater Austin Chapter
+simple_search: http://google.com/search
 markdown: redcarpet
 exclude:
   - Gemfile
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 minify_html: false
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+paginate: 6 #Posts per page on the blog index
+pagination_dir: posts #Directory base for pagination
+recent_posts: 5 #Posts in the sidebar Recent Posts section
+excerpt_link: "Read on &rarr;" # "Continue reading" link text at bottom of excerpted articles
+excerpt_separator: "<!--more-->"
+navigation:
+  - title: About
+    url: /about
+navigation_links:
+  - { url: '/', name: 'Posts' }
+  - { url: '/about', name: 'About' }
+  - { url: '/projects', name: 'Projects' }
+  - { url: '/calendar', name: 'Calendar' }
+  - { url: '/contact-us', name: 'Contact' }
