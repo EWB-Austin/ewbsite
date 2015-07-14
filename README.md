@@ -1,4 +1,4 @@
 # Engineers Without Borders, Greater Austin Chapter
 
-Rob is cool.
+Please visit this URL for more [Information](http://www.ewbgreateraustin.org)
 
