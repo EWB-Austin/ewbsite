@@ -24,5 +24,6 @@ navigation_links:
   - { url: '/', name: 'Posts' }
   - { url: '/about', name: 'About' }
   - { url: '/projects', name: 'Projects' }
+  - { url: '/events', name: 'Events' }
   - { url: '/calendar', name: 'Calendar' }
   - { url: '/contact-us', name: 'Contact' }
