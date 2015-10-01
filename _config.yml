@@ -27,3 +27,4 @@ navigation_links:
   - { url: '/events', name: 'Events' }
   - { url: '/calendar', name: 'Calendar' }
   - { url: '/contact-us', name: 'Contact' }
+  - { url: 'https://takeaction.ewb-usa.org/greater-austin-chapter', name: 'Donate' }
